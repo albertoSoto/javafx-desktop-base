@@ -18,7 +18,6 @@
         <java.version>1.8</java.version>
     </properties>
     <modules>
-        <module>lince-client</module>
         <module>lince-server</module>
         <module>lince-data</module>
     </modules>
