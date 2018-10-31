@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>lince-server</artifactId>
+    <artifactId>javafx-desktop-server</artifactId>
 
     <dependencies>
         <dependency>

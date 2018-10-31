@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.deicos.lince</groupId>
-    <artifactId>lince-scientific-base</artifactId>
+    <artifactId>javafx-desktop-base</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <description>Lince - Multi-platform sport analysis software base</description>
@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
     </properties>
     <modules>
-        <module>lince-server</module>
-        <module>lince-data</module>
+        <module>javafx-desktop-server</module>
+        <module>javafx-desktop-data</module>
     </modules>
 </project>
